@@ -1,6 +1,6 @@
 # Awesome AI Agents
 
-![Awesome AI Agents](https://img.shields.io/badge/Awesome-AI%20Agents-blue.svg) 
+![Awesome AI Agents](https://img.shields.io/badge/Awesome-AI%20Agents-blue.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/AI-Agents-Simplified/Awesome-AI-Agents?style=social) ![GitHub forks](https://img.shields.io/github/forks/AI-Agents-Simplified/Awesome-AI-Agents?style=social) ![GitHub issues](https://img.shields.io/github/issues/AI-Agents-Simplified/Awesome-AI-Agents) ![GitHub pull requests](https://img.shields.io/github/issues-pr/AI-Agents-Simplified/Awesome-AI-Agents) ![GitHub last commit](https://img.shields.io/github/last-commit/AI-Agents-Simplified/Awesome-AI-Agents)
 
 A curated list of AI agents, frameworks, and tools that automate tasks, enhance workflows, and push the boundaries of artificial intelligence.
 
